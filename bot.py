@@ -15,17 +15,19 @@ bot = Bot(token=TOKEN)
 URLS = {
     "FC Kairat (official site)": "https://fckairat.com/view/ticket-selling/",
     "Ticketon": "https://ticketon.kz/sports/futbolniy-klub-kairat",
-    "Kassir.kz": "https://kassir.kz/",
+    "Real": "https://www.realmadrid.com/en-US/tickets?filter-tickets=vip;general&filter-football=primer-equipo-masculino",
+    "Ticketon2": "https://ticketon.kz/almaty/search?q=%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%81%D1%82%D0%B0%D0%B4%D0%B8%D0%BE%D0%BD",
 }
 
 # 🔎 Ticket-related keywords
 KEYWORDS = [
-    "Купить билет",
-    "Билеты",
-    "В продаже",
-    "Tickets",
-    "Buy tickets",
+    "Мадрид",
     "Реал",
+    "Реал Мадрид",
+    "реал",
+    "мадрид",
+    "Kairat",
+    "kairat",
     "Real Madrid",
 ]
 
