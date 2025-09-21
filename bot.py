@@ -13,7 +13,6 @@ bot = Bot(token=TOKEN)
 
 # 🌐 Official URLs
 URLS = {
-    "FC Kairat (official site)": "https://fckairat.com/view/ticket-selling/",
     "Ticketon": "https://ticketon.kz/sports/futbolniy-klub-kairat",
     "Ticketon2": "https://ticketon.kz/almaty/search?q=%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%81%D1%82%D0%B0%D0%B4%D0%B8%D0%BE%D0%BD",
 }
